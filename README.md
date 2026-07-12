@@ -15,7 +15,7 @@ I'm a B.Tech Engineering Physics student at **IIT Ropar (2023–2027)**, current
 My background in physics and engineering gives me a strong analytical foundation — I'm comfortable breaking down complex problems and I bring that same rigor to data: cleaning it, querying it and visualizing it into dashboards that actually help people make decisions.
 
 - 🔭 Currently working on end-to-end data analytics projects (SQL → Power BI/Excel dashboards)
-- 🌱 Deepening my skills in DAX, Power Query, and Python
+- 🌱 Deepening my skills in DAX, Power Query and Python
 - 📫 Reach me at **surajk.b168@gmail.com**
 
 ---
