@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surajkumar Bevnale</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Excel • Python</h3>
+<h3 align="center">Aspiring Data Analyst | SQL • Excel • Power BI • Python</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/skb168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
