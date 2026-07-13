@@ -41,18 +41,18 @@ My background in physics and engineering gives me a strong analytical foundation
 - Used DAX measures (CALCULATE, SUMX, RELATEDTABLE) with a dedicated Date table and Field Parameters for dynamic axis switching.
 - **Key metrics:** $817.86K revenue analyzed across 21.35K orders.
 
-#### 🛒 [E-Commerce User Behavior Analysis](https://github.com/SurajB-168/E-Commerce-User-Behavior-Analysis)
-`MySQL` `Excel` `Data Analysis`
-- Analyzed the full purchase funnel (visit → add to cart → purchase) using SQL CTEs, window functions, and self-joins on ~9,400 events from 5,000 users.
-- Found email traffic converts at ~34% vs. ~7% for social traffic.
-- Measured funnel drop-off timing between stages and built an Excel dashboard to visualize findings.
-
 #### 📈 [Marketing Campaign Analysis](https://github.com/SurajB-168/Marketing-Campaign-Analysis)
 `Excel` `PivotTables` `Data Cleaning`
 - Cleaned and analyzed 220 marketing campaigns across 5 channels (Email, Google Ads, Social Media, TV, Radio) for an e-commerce company.
 - Handled missing data with formula-driven imputation (ratio/rate-based estimation) instead of dropping rows, with color-coded flagging for full auditability.
 - Built calculated metrics (CTR, Conversion Rate, CPC, CPA, ROI, Profit/Loss), PivotTables, and charts (stacked bar, pie, line, scatter) to compare channel performance.
 - **Key finding:** Email delivered the best ROI (75%) on just 3% of total budget, while 29 loss-making campaigns were all concentrated in TV and Radio.
+
+#### 🛒 [E-Commerce User Behavior Analysis](https://github.com/SurajB-168/E-Commerce-User-Behavior-Analysis)
+`MySQL` `Excel` `Data Analysis`
+- Analyzed the full purchase funnel (visit → add to cart → purchase) using SQL CTEs, window functions, and self-joins on ~9,400 events from 5,000 users.
+- Found email traffic converts at ~34% vs. ~7% for social traffic.
+- Measured funnel drop-off timing between stages and built an Excel dashboard to visualize findings.
 
 > 📁 More projects on my [GitHub repositories](https://github.com/SurajB-168?tab=repositories)
 
