@@ -47,12 +47,18 @@ My background in physics and engineering gives me a strong analytical foundation
 - Found email traffic converts at ~34% vs. ~7% for social traffic.
 - Measured funnel drop-off timing between stages and built an Excel dashboard to visualize findings.
 
+#### 📈 [Marketing Campaign Analysis](https://github.com/SurajB-168/Marketing-Campaign-Analysis)
+`Excel` `PivotTables` `Data Cleaning`
+- Cleaned and analyzed 220 marketing campaigns across 5 channels (Email, Google Ads, Social Media, TV, Radio) for an e-commerce company.
+- Handled missing data with formula-driven imputation (ratio/rate-based estimation) instead of dropping rows, with color-coded flagging for full auditability.
+- Built calculated metrics (CTR, Conversion Rate, CPC, CPA, ROI, Profit/Loss), PivotTables, and charts (stacked bar, pie, line, scatter) to compare channel performance.
+- **Key finding:** Email delivered the best ROI (75%) on just 3% of total budget, while 29 loss-making campaigns were all concentrated in TV and Radio.
+
 > 📁 More projects on my [GitHub repositories](https://github.com/SurajB-168?tab=repositories)
 
 ---
 
 ### 🎓 Education & Achievements
-
 - **B.Tech, Engineering Physics** — Indian Institute of Technology, Ropar (2023–2027)
 - **JEE Advanced:** AIR 12530 | **JEE Main:** 98.57 percentile | **MHT-CET:** 98.95 percentile
 
@@ -63,7 +69,6 @@ My background in physics and engineering gives me a strong analytical foundation
 ---
 
 ### 📬 Contact
-
 - **Email:** surajk.b168@gmail.com
 - **LinkedIn:** [linkedin.com/in/skb168](https://linkedin.com/in/skb168/)
 - **GitHub:** [github.com/SurajB-168](https://github.com/SurajB-168)
